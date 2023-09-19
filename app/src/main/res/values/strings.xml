@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Piglet</string>
+    <string name="email_field_hint">E-Mail Address</string>
+    <string name="password_field_hint">Password</string>
+    <string name="sign_in_button">Sign in</string>
+    <string name="sign_up_button">Sign up</string>
+    <string name="sign_in_no_account"><u>Don\'t have an account?</u></string>
+    <string name="first_name_field_hint">First name</string>
+    <string name="last_name_field_hint">Last name</string>
+    <string name="sign_in_title">Sign in</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_up_title">Sign up</string>
+    <string name="title_activity_test">TestActivity</string>
+</resources>
